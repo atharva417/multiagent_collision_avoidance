@@ -4,7 +4,7 @@ This repository contains the implementation of
 
 A two agent collision avoidance algorithm is implemented based on Deep Reinforcement Learning.
 
-[![image](https://www.linkpicture.com/q/000_learning_2agents.gif)](https://www.linkpicture.com/view.php?img=LPic627166333e1c31110223739)
+[<img src="https://www.linkpicture.com/q/000_learning_2agents.gif" width="620" height="480">](https://www.linkpicture.com/view.php?img=LPic627166333e1c31110223739)
 
 [Multiagent gym environment](https://gym-collision-avoidance.readthedocs.io/en/latest/index.html) was used in this project to implement and validate the algorithm. 
 The implementation was done in Python programming language, and
