@@ -4,11 +4,11 @@ This repository contains the implementation of
 
 A two agent collision avoidance algorithm is implemented based on Deep Reinforcement Learning.
 
-[Multiagent gym environment] (https://gym-collision-avoidance.readthedocs.io/en/latest/index.html) was used in this project to implement and validate the algorithm. 
+[Multiagent gym environment](https://gym-collision-avoidance.readthedocs.io/en/latest/index.html) was used in this project to implement and validate the algorithm. 
 The implementation was done in Python programming language, and
 deep model was trained using Keras library and TensorFlow.
 
-All the scripts are in the [experiments/src] (https://github.com/atharva417/multiagent_collision_avoidance/tree/master/gym-collision-avoidance/gym_collision_avoidance/experiments/src)
+All the scripts are in the [experiments/src](https://github.com/atharva417/multiagent_collision_avoidance/tree/master/gym-collision-avoidance/gym_collision_avoidance/experiments/src)
 folder.
 
 Following python files were implemented:
